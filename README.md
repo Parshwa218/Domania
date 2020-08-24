@@ -19,9 +19,17 @@ cd Domania
 # Usage 
 
 ```
+WINDOWS :
+
 python Domania.py --help
 python Domania.py -d <target> 
 python Domania.py -d <target> -o target.txt
+
+LINUX :
+
+python3 Domania.py --help
+python3 Domania.py -d <target> 
+python3 Domania.py -d <target> -o target.txt
 ```
 
 # Developed By
