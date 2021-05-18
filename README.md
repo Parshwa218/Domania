@@ -40,4 +40,4 @@ python3 Domania.py -d <target> -o target.txt
  - Give suggestions for improvement.
  
 # Contact Developer
-- LinkedIn :- Parshwa Bhavsar 
+- LinkedIn :- <a href=https://www.linkedin.com/in/parshwa-bhavsar>Parshwa Bhavsar</a> 
